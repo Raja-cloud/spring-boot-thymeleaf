@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY index.html /usr/spring-boot-thymeleaf/src/main/resources/templates/
+COPY index.html /spring-boot-thymeleaf/src/main/resources/templates/
